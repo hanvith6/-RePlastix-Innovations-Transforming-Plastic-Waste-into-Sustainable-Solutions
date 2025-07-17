@@ -1,8 +1,4 @@
-Here is a professional and descriptive README.md content you can copy-paste into your GitHub repo:
-
----
-
-# ♻️ RePlastix Innovations – Salesforce Inventory Automation
+♻️ RePlastix Innovations – Salesforce Inventory Automation
 
 This project demonstrates how RePlastix Innovations leverages Salesforce CRM to automate recycled plastic inventory management using Apex, Triggers, and Flows. The implementation helps prevent stock shortages, streamline restocking, and enhance cross-team communication through email automation.
 
