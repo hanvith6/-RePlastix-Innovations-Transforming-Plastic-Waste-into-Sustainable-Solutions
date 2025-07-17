@@ -1,0 +1,5 @@
+trigger UpdateStockAfterOrder on Re_Plastic_Innovations_Order__c (after insert) {
+    if (Trigger.isAfter && Trigger.isInsert) {
+        InventoryManager.processOrderStock(Trigger.new);
+    }
+}
